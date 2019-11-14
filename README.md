@@ -7,5 +7,6 @@ node install
 
 
 ### Ejemplos
-node app -d 'cordoba argentina'
+node app -d 'cordoba argentina' 
+
 node app -d 'new york'
